@@ -1,14 +1,14 @@
 ---
-title: About Aidan Charles Powell
+title: About me
 layout: about.njk
-name: Aidan Charles Powell
-image: '/images/me.jpeg'
+name: me
+image: "/images/niamh.jpg"
 ---
 
-Aidan Charles Powell is a 23-year-old health centre receptionist who enjoys watching television, eating out and social media. He is generous and giving, but can also be very rude and a bit lazy.
+Hey there, I'm Niamh.
 
-He is a Jedi who defines himself as straight. He has a degree in medicine. He is a vegetarian. He is obsessed with vintage dresses.
+I help people build websites and write engaging business content.
 
-He grew up in a middle class neighbourhood. After his mother died when he was young, he was raised by his father
+I'm also obsessed with literature and philosophy and dive deep into these topics in my articles.
 
-He is currently married to Maureen Erika Quinn. Maureen is 13 years older than him and works as a sales assistant.
+If you'd like to work with me, email me at <a href="mailto:niamhmaddencontent@gmail.com">niamhmaddencontent@gmail.com</a>
