@@ -87,8 +87,9 @@ ol ol {
 }
 
 ul {
-  list-style-type: square;
+  list-style-type: round;
   list-style-position: inside;
+  margin-top: 2rem;
 }
 
 b,
