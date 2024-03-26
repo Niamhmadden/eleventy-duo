@@ -87,7 +87,7 @@ ol ol {
 }
 
 ul {
-  list-style-type: round;
+  list-style-type: square;
   list-style-position: inside;
   margin-top: 2rem;
 }
@@ -127,13 +127,13 @@ td:only-child {
 
 * + h1,
 * + h2 {
-  margin-top: 5rem;
+  margin-top: 3rem;
 }
 
 * + h3,
 * + h4,
 * + h5 {
-  margin-top: 3rem;
+  margin-top: 2rem;
 }
 
 * + p {
