@@ -75,13 +75,12 @@ The second command urges Abraham to detach from his father and family. The conte
 
 Going forth into the unknown, today, might look like:
 
-Living in a new city
-
-Moving out of our families house
-
-Starting a family
-
-Meeting new people
+<ul> 
+ <li>Living in a new city</li>
+  <li>Moving out of our families house</li>
+  <li>Starting a family</li>
+  <li>Meeting new people</li>
+</ul>
 
 These endeavours allow us to gain new insights (big or small) by stepping outside the bounds of our current identity and slowly catalysing a new one.
 

@@ -27,7 +27,7 @@ Life is suffering. Accepting it means we realign our expectations. If suffering 
 
 There is real utility in picking up your suffering and bearing it. This idea is expressed or implied by some of my favourite thinkers. Not to mention it's the symbol of Christianity. If we can't endure pain and suffering, how do we expect to journey through life's challenges with courage and strength?
 
-The Stoic practice of premeditatio malorum #
+## The Stoic practice of premeditatio malorum
 
 The Stoics had a practice to help prepare for the suffering that lies ahead. Rather than responding to suffering with self-pity and despair, they advocated a proactive response. This practice is called premeditatio malorum or the premeditation of evils. Today it's known as negative visualisation.
 
