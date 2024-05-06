@@ -7,7 +7,7 @@ image: "/images/niamh.jpg"
 
 Hey there, I'm Niamh.
 
-I help people build websites and write engaging business content.
+I was born a writer.
 
 I'm also obsessed with literature and philosophy and dive deep into these topics in my articles.
 
