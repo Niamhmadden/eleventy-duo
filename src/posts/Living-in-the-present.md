@@ -22,7 +22,8 @@ The future dawns on us and that can be daunting or exciting.
 
 ## The stoic perspective on present and future
 
-The stoic perspective urges us to be grateful for and happy with our current situation. The present is the only graspable moment we have. The past is fixed and unchangeable. The future is dependent on our actions in the here and now.  
+The stoic perspective urges us to be grateful for and happy with our current situation. The present is the only graspable moment we have. The past is fixed and unchangeable. The future is dependent on our actions in the here and now.
+
 The urgency of living in the present is captured in the stoic phrase "memento mori" (remember death or remember you will die). It reminds us that death will come to us all, so why not throw ourselves in?
 
 Philippe de Champaigne's painting, Still Life with a Skull, expressed a similar concept. The painting depicted three essentials of existence — the tulip (life), the skull (death), and the hourglass (time). The original painting is part of a genre referred to as Vanitas, a form of 17th century artwork to represent the transcience of life and the certainty of death.
